@@ -38,7 +38,7 @@ int main() {
 }
 ```
 
-More examples in `examples/` directory.
+More examples in `examples/` directory. You can build them with `make example`, and view the executables (and source code) in `examples/`
 
 Note: by including `machstic.hpp` you are automatically including `<variant>`,
 so you don't have to manually include that.
